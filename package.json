@@ -1,0 +1,23 @@
+{
+  "name": "scheduledwebsitescreenshots",
+  "version": "1.0.0",
+  "description": "This repo aims to build an automated web screenshot mechanism, whereby people can take screenshots of a specified webpage at a provided schedule and access that later.",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwarajanand/ScheduledWebsiteScreenshots.git"
+  },
+  "author": "Vishwaraj Anand <vishwaraj.anand00@gmail.com> (http://vishwarajanand.com/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vishwarajanand/ScheduledWebsiteScreenshots/issues"
+  },
+  "homepage": "https://github.com/vishwarajanand/ScheduledWebsiteScreenshots#readme"
+}
